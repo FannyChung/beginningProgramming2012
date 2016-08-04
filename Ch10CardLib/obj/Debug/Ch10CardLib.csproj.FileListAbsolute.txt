@@ -1,0 +1,4 @@
+e:\users\hp\documents\visual studio 2015\Projects\beginningProgramming\Ch10CardLib\bin\Debug\Ch10CardLib.dll
+e:\users\hp\documents\visual studio 2015\Projects\beginningProgramming\Ch10CardLib\bin\Debug\Ch10CardLib.pdb
+e:\users\hp\documents\visual studio 2015\Projects\beginningProgramming\Ch10CardLib\obj\Debug\Ch10CardLib.dll
+e:\users\hp\documents\visual studio 2015\Projects\beginningProgramming\Ch10CardLib\obj\Debug\Ch10CardLib.pdb

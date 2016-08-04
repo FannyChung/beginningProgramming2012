@@ -1,0 +1,3 @@
+e:\users\hp\documents\visual studio 2015\Projects\beginningProgramming\beginningProgramming\bin\Debug\beginningProgramming.exe.config
+e:\users\hp\documents\visual studio 2015\Projects\beginningProgramming\beginningProgramming\obj\Debug\beginningProgramming.exe
+e:\users\hp\documents\visual studio 2015\Projects\beginningProgramming\beginningProgramming\obj\Debug\beginningProgramming.pdb
